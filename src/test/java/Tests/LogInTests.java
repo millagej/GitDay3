@@ -18,6 +18,9 @@ public class LogInTests {
     public class  LoginTests {
         WebDriver driver;
 
+
+
+
         @BeforeClass
         public void setUp(){
             WebDriverManager.chromedriver().setup();
